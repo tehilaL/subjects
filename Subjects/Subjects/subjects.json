@@ -1,0 +1,36 @@
+
+
+ [
+        {
+          "id": "1",
+          "mainSubjectId": "0",
+          "name": "Subject1"
+        },
+        {
+          "id": "2",
+          "mainSubjectId": "1",
+          "name": "Subject2"
+        },
+        {
+          "id": "3",
+          "mainSubjectId": "1",
+          "name": "Subject3"
+        },
+        {
+          "id": "4",
+          "mainSubjectId": "5",
+          "name": "Subject4"
+        },
+        {
+          "id": "5",
+          "mainSubjectId": "0",
+          "name": "Subject45"
+        },
+        {
+          "id": "6",
+          "mainSubjectId": "1",
+          "name": "Subject6"
+        }
+      
+  ]
+

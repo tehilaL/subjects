@@ -1,0 +1,139 @@
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\Subjects.dll.config
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\Subjects.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\Subjects.pdb
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\csc.exe
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\csc.exe.config
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\csc.rsp
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\csi.exe
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\csi.exe.config
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\csi.rsp
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\System.AppContext.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\System.Console.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\System.IO.Compression.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\System.Net.Http.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\System.ValueTuple.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\vbc.exe
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\vbc.exe.config
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\vbc.rsp
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\VBCSCompiler.exe
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\Newtonsoft.Json.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\System.Net.Http.Formatting.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\System.Web.Http.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\System.Web.Http.WebHost.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\Newtonsoft.Json.xml
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\System.Net.Http.Formatting.xml
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\System.Web.Http.xml
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\System.Web.Http.WebHost.xml
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\obj\Debug\Subjects.csprojAssemblyReference.cache
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\obj\Debug\Subjects.csproj.CoreCompileInputs.cache
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\obj\Debug\Subjects.csproj.CopyComplete
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\obj\Debug\Subjects.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\obj\Debug\Subjects.pdb
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\System.Web.Http.Cors.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\System.Web.Cors.dll
+C:\Users\Groups\Desktop\מבחנים למקומות עבודה\משפטים\משפטים\Subjects\Subjects\bin\System.Web.Http.Cors.xml
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\Subjects.dll.config
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\Subjects.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\Subjects.pdb
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\csc.exe
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\csc.exe.config
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\csc.rsp
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\csi.exe
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\csi.exe.config
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\csi.rsp
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\System.AppContext.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\System.Console.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\System.IO.Compression.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\System.Net.Http.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\System.ValueTuple.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\vbc.exe
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\vbc.exe.config
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\vbc.rsp
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\VBCSCompiler.exe
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\Newtonsoft.Json.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\System.Net.Http.Formatting.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\System.Web.Http.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\System.Web.Http.WebHost.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\System.Web.Cors.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\System.Web.Http.Cors.xml
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\Newtonsoft.Json.xml
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\System.Net.Http.Formatting.xml
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\System.Web.Http.xml
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\System.Web.Http.WebHost.xml
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\obj\Debug\Subjects.csprojAssemblyReference.cache
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\obj\Debug\Subjects.csproj.CoreCompileInputs.cache
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\obj\Debug\Subjects.csproj.CopyComplete
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\obj\Debug\Subjects.dll
+C:\Users\Groups\Desktop\משפטים\Subjects\Subjects\obj\Debug\Subjects.pdb
